@@ -1,16 +1,16 @@
 ## AT A GLANCE
 
-I am Taha
+Hi its Taha :wave:
 
-I am 25 years old
+25 years old 
 
-I am learning c / c++
+c / c++ :computer: 
 
-I live at Heilbronn / Germany
+having basic knowledge on Phyton and Sql  :computer: 
 
-I am student at 42 Heilbronn / intra  = tkirmizi
+Heilbronn / Germany :round_pushpin: 
 
-I also have basic knowledge on Phyton and Sql
+student at 42 Heilbronn / intra  = tkirmizi  :dependabot:
 
 ## My Inspiration 
 After graduating from Physical Education and Sports Teaching, I worked as a teacher for 2 years, followed by a year of experience as an academician at the university. Following my passion, I decided to transition into software development and enrolled in Computer Programming. Subsequently, feeling the need for more, I participated in the piscine boot camp at 42 Heilbronn school in Germany and succeeded. Currently, I am a student here, working on various projects such as libft, sorting alghrotism...  I am eager to be part of the technology landscape, seizing opportunities in the present and future advancements. I am highly open to learning and believe that given the chance, I will thrive in this field.
