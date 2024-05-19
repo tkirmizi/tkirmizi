@@ -6,7 +6,7 @@ Hi its Taha :wave:
 
 c / c++ :computer: 
 
-having basic knowledge on Phyton and Sql  :computer: 
+having basic knowledge on Html, CSS, Phyton and Sql  :computer: 
 
 Heilbronn / Germany :round_pushpin: 
 
