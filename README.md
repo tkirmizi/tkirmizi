@@ -2,8 +2,6 @@
 
 Hi its Taha :wave:
 
-25 years old 
-
 c / c++ :computer: 
 
 having basic knowledge on Html, CSS, Phyton and Sql  :computer: 
