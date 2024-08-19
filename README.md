@@ -1,14 +1,14 @@
 ## AT A GLANCE
 
-Hi its Taha :wave:
+ :wave: Hi its Taha
 
-c / c++ :computer: 
+:computer: c / c++
 
-having basic knowledge on Html, CSS, Phyton and Sql  :computer: 
+ :computer: having basic knowledge on Html, CSS, Phyton and Sql 
 
-Heilbronn / Germany :round_pushpin: 
+:round_pushpin: Heilbronn / Germany 
 
-student at 42 Heilbronn / intra  = tkirmizi  :dependabot:
+:dependabot: student at 42 Heilbronn / intra  = tkirmizi  
 
 🇹🇷 **Turkish**: Mother language
 🇬🇧 **English**: Professional
