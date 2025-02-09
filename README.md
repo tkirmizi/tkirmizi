@@ -1,8 +1,6 @@
 ## AT A GLANCE
 
- :wave: Hi its Taha
-
- :computer: Knowledge on C / Cpp / Javascript (es6) / Vue.JS(Composition API) / Html / CSS / Phyton / Sql 
+ :computer: : C / Cpp / Javascript (es6) / Vue.JS(Composition API) / Html / CSS / Phyton / Sql 
 
 :round_pushpin: Heilbronn / Germany 
 
