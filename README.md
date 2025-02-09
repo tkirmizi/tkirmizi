@@ -1,4 +1,4 @@
-## AT A GLANCE
+## At A Glance
 
  :computer: : C / Cpp / Javascript (es6) / Vue.JS(Composition API) / Html / CSS / Phyton / Sql 
 
