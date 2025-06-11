@@ -9,4 +9,6 @@
 🇹🇷 : Mother language
 🇬🇧 : Professional
 🇩🇪 : Still learning
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-kırmızıoğlu-31429215a/)
