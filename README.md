@@ -1,6 +1,6 @@
 ## At A Glance
 
- :computer: : C / Cpp / Javascript (es6) / Vue.JS(Composition API) / Html / CSS / Phyton / Sql 
+ :computer: : Golang / Vue.JS(Composition API) / Typescript / C / Cpp / Html / CSS / Sql 
 
 :round_pushpin: Heilbronn / Germany 
 
