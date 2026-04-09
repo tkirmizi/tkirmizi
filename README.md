@@ -1,6 +1,6 @@
 ## At A Glance
 
- :computer: : Golang / Vue.JS(Composition API) / Typescript / C / Cpp / Html / CSS / Sql 
+ :computer: : Golang - Vue.JS - Typescript - CI/CD - SQL - Jira
 
 :round_pushpin: Heilbronn / Germany 
 
